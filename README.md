@@ -1,0 +1,1 @@
+This plugin adds viewtypes that were formerly part of the Elgg core (1.0-1.8).
