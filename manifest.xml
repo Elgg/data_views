@@ -3,7 +3,7 @@
 	<name>Data views for web services</name>
 	<author>Core developers</author>
 	<version>1.9</version>
-	<description>Provides data formats for Elgg web services like xml and serialized php.</description>
+	<description>Provides data formats for Elgg web services like xml and serialized php. Also supports ical for calendar events.</description>
 	<website>http://www.elgg.org/</website>
 	<copyright>(C) Elgg Foundation 2013</copyright>
 	<license>GNU General Public License version 2</license>
